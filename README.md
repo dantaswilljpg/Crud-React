@@ -1,12 +1,12 @@
-## Crud de Registro em React e API node.js 🚀
-
-## Sobre o Projeto  🍞
-Este projeto consiste em uma API em Node.js para realizar operações de CRUD (Create, Read, Update, Delete) em um sistema. A API possui funcionalidades completas e conta com animações para aprimorar a experiência do usuário.
+## CRUD de Registro em React e API Node.js 🚀
 
 
-## Desenvolvedor do Projeto: 👩‍💻
+## Sobre o Projeto 🍞
+Este projeto consiste em um sistema de CRUD (Create, Read, Update, Delete) desenvolvido com React e uma API em Node.js. O objetivo é permitir que os usuários realizem operações de registro em um sistema, com funcionalidades completas e animações para proporcionar uma experiência aprimorada.
+
+
+## Desenvolvedor do Projeto 👩‍💻
 Will Dantas | @dantaswilljpg
-
 
 
 ## 🛠 Ferramentas Utilizadas
