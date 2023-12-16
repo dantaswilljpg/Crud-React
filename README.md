@@ -8,6 +8,7 @@ Este projeto consiste em uma API em Node.js para realizar operações de CRUD (C
 Will Dantas | @dantaswilljpg
 
 
+
 ## 🛠 Ferramentas Utilizadas
 <div align="center">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React" /></code>
